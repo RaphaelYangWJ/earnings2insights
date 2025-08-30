@@ -1,0 +1,42 @@
+[
+  {
+    "date":"2019 Q3",
+    "revenue":53823000000,
+    "costOfRevenue":33582000000,
+    "grossProfit":20241000000,
+    "operatingIncome":13057000000,
+    "netIncome":11253000000,
+    "eps":2.46,
+    "cashFlowFromOperations":19910000000
+  },
+  {
+    "date":"2019 Q2",
+    "revenue":53301000000,
+    "costOfRevenue":33198000000,
+    "grossProfit":20103000000,
+    "operatingIncome":12415000000,
+    "netIncome":10044000000,
+    "eps":2.18,
+    "cashFlowFromOperations":17865000000
+  },
+  {
+    "date":"2019 Q1",
+    "revenue":58015000000,
+    "costOfRevenue":35940000000,
+    "grossProfit":22075000000,
+    "operatingIncome":13411000000,
+    "netIncome":11561000000,
+    "eps":2.46,
+    "cashFlowFromOperations":11155000000
+  },
+  {
+    "date":"2018 Q4",
+    "revenue":84310000000,
+    "costOfRevenue":52279000000,
+    "grossProfit":32031000000,
+    "operatingIncome":23346000000,
+    "netIncome":19965000000,
+    "eps":4.18,
+    "cashFlowFromOperations":26680000000
+  }
+]
