@@ -62,11 +62,6 @@ The system processes the following structure for input data:
 
 * **Weijie Yang** – University of California, Berkeley ([raphaelyang1998@berkeley.edu](mailto:raphaelyang1998@berkeley.edu))
 * **Junbo Peng, Ph.D** – Georgia Institute of Technology ([pjbustc@gmail.com](mailto:pjbustc@gmail.com))
-* **Xinyun Rong** – University of California, Berkeley ([roxyrong@berkeley.edu](mailto:roxyrong@berkeley.edu))
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
