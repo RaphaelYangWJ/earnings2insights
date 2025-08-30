@@ -1,6 +1,3 @@
-当然可以！我可以帮你写一个简单而完整的 **README** 文件模板，适用于你的 GitHub 项目。假设你的项目是关于 **Earnings Insight**（根据之前的讨论），以下是一个适合你项目的 **README** 示例：
-
-````markdown
 # Earnings Insight
 
 Earnings Insight is a project focused on generating structured investment reports from earnings call transcripts. The goal of the project is to leverage advanced natural language processing (NLP) models to analyze earnings calls and produce actionable insights for investors.
