@@ -9,27 +9,6 @@ Earnings Insight is a project focused on generating structured investment report
 - **Customizable financial analysis**: Incorporate key financial metrics such as EPS, revenue, expenses, and operational trends to provide detailed investment insights.
 - **Data enrichment**: Enhance the analysis with external data sources using Retrieval-Augmented Generation (RAG) to improve the accuracy and richness of the reports.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/EarningsInsight.git
-   cd EarningsInsight
-````
-
-2. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Set up the environment:
-
-   * Ensure that you have the necessary API keys and credentials to access financial data.
-   * Configure any external data sources or models (e.g., Google Gemini-Pro, Qwen2.5).
-
 ## Usage
 
 ### 1. Data Input:
